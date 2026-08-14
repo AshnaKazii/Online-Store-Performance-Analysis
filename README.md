@@ -79,7 +79,7 @@ cd Online-Store-Performance-Analysis
 3. Explore the Dashboard : Use the available slicers and visualizations to analyze sales, profit, customers, products, categories, and regional performance.If the source data is included separately in the repository, update the data source path in Power BI if required.
 
 ## 👩‍💻 Author
-Ashna Kazi
+Ashna Kazi  
 B.Tech Information Technology Student @ SAKEC
 
 GitHub: https://github.com/AshnaKazii  
