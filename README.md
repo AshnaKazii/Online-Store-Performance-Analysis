@@ -70,7 +70,7 @@ Users can interact with the dashboard using slicers for:
 Selecting a filter dynamically updates the dashboard visuals and KPIs.
 
 ## 🚀 Getting Started
-1. Clone the Repository
+1. Clone the Repository  
 git clone https://github.com/AshnaKazii/Online-Store-Performance-Analysis.git
 cd Online-Store-Performance-Analysis
 
