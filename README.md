@@ -71,7 +71,7 @@ Selecting a filter dynamically updates the dashboard visuals and KPIs.
 
 ## 🚀 Getting Started
 1. Clone the Repository  
-git clone https://github.com/AshnaKazii/Online-Store-Performance-Analysis.git
+git clone https://github.com/AshnaKazii/Online-Store-Performance-Analysis.git  
 cd Online-Store-Performance-Analysis
 
 2. Open the Power BI File : Open the .pbix file using Power BI Desktop.
